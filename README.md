@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Junior;Machine+Learning+Engineer;Computer+Vision%20Enthusiast;HealthCare%20and%20SDGs&center=true&width=380&height=45">
+</p>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There! I am
@@ -8,7 +10,7 @@
 <p align="center"> 
   <samp>
     <ar>
-    「 I am a Data Science junior from <b>Ho Chi Minh City</b> 」
+    「 A Data Science Junior From <b>Ho Chi Minh City</b> 」
     <br>
     <br>
   </samp>
@@ -26,14 +28,17 @@
 
   </a> 
 </p>
-<br />
-<!-- About Section -->
- ABOUT ME
-<p>
+
+<br/>
+<br/>
+<br/>
+
+## ABOUT ME
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Passionate about the world of data <br/><br/>
- ❤️ &emsp; Life-long learner <br/><br/>
+ ✌️ &emsp; A life-long learner <br/><br/>
+ ❤️ &emsp; Passionate about putting ideas into practice <br/><br/>
+ ⚡&emsp; My Fields Of Interest: Computer Vision, Prediction Models <br/><br/>
  📧 &emsp; Reach me anytime: dhang2003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here]()
 
@@ -42,5 +47,23 @@
 <br/>
 <br/>
 <br/>
+
+## Programming Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
+![Microsoft Sql Server](https://img.shields.io/badge/Microsoft_Sql_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow_CSS-092749?style=for-the-badge&logo=tensorflow&logoColor=06B6D4&labelColor=000000)
+![Keras](https://img.shields.io/badge/Keras-563D7C?style=for-the-badge&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-2E7EEA?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
 
 
