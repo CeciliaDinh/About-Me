@@ -24,8 +24,7 @@
 </p>
 <br />
 <!-- About Section -->
- # About me
- 
+ ABOUT ME
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
