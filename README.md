@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Junior;Machine+Learning+Engineer;Computer+Vision%20Enthusiast;HealthCare%20and%20SDGs&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Junior;Machine+Learning+Engineer;Computer+Vision%20Enthusiast;HealthCare&center=true&width=380&height=45">
 </p>
 <!-- Intro  -->
 <h3 align="center">
